@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = isoumardjouma@reseau.free.fr
+	name = Ilyes Soumar Djouma
